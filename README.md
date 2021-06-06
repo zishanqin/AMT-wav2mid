@@ -7,6 +7,7 @@
 4. Techniques: http://www.music.mcgill.ca/~ich/classes/mumt611_07/transcription/bello_paper.pdf
 5. DL: https://arxiv.org/pdf/1604.08723.pdf
 6. Supervised: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7416164
+7. A shift-invariant latent variable model: https://www.jstor.org/stable/pdf/41819549.pdf
 
 ### Thesis by Jonathan Sleep for MS in CSC @ CalPoly
 
