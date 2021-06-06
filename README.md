@@ -4,7 +4,7 @@
 1. Generative model: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1597270
 2. Overview 2013: https://link.springer.com/content/pdf/10.1007/s10844-013-0258-3.pdf
 3. Overview 2018: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8588423
-4. http://www.music.mcgill.ca/~ich/classes/mumt611_07/transcription/bello_paper.pdf
+4. Techniques: http://www.music.mcgill.ca/~ich/classes/mumt611_07/transcription/bello_paper.pdf
 5. DL: https://arxiv.org/pdf/1604.08723.pdf
 6. Supervised: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7416164
 
