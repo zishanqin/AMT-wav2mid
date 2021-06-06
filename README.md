@@ -2,6 +2,7 @@
 
 ### Relavant thesis
 1. https://link.springer.com/content/pdf/10.1007/s10844-013-0258-3.pdf
+2. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8588423
 
 ### Thesis by Jonathan Sleep for MS in CSC @ CalPoly
 
