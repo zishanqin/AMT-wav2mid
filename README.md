@@ -1,5 +1,8 @@
 # wav2mid: Polyphonic Piano Music Transcription with Deep Neural Networks
 
+### Relavant thesis
+1. https://link.springer.com/content/pdf/10.1007/s10844-013-0258-3.pdf
+
 ### Thesis by Jonathan Sleep for MS in CSC @ CalPoly
 
 ## Abstract / Intro
