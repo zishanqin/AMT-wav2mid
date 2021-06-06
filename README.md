@@ -8,6 +8,7 @@
 5. DL: https://arxiv.org/pdf/1604.08723.pdf
 6. Supervised: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7416164
 7. A shift-invariant latent variable model: https://www.jstor.org/stable/pdf/41819549.pdf
+8. Real time CV based: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7225173
 
 ### Thesis by Jonathan Sleep for MS in CSC @ CalPoly
 
